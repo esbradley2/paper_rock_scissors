@@ -30,10 +30,10 @@ In Version 3, make the following enhancements:
 In Version 4, make the following enhancements:
 
  - Allow for more flexible input.
-  -Let "p", "P", "1" all work to play "paper."
-  -Let "r", "R", "2" all work to play "rock."
-  -Let "s", "S, "3" all work to play "scissors."
-  -Let "q", "Q", "exit", "ExiT", "e" all work to "quit."
+  - Let "p", "P", "1" all work to play "paper."
+  - Let "r", "R", "2" all work to play "rock."
+  - Let "s", "S, "3" all work to play "scissors."
+  - Let "q", "Q", "exit", "ExiT", "e" all work to "quit."
 
 There's no one correct way to write this game; there are infinite ways, in fact. So just make it work in whichever way seems the most straightforward to you. There is one possible solution for Version 1 in this repository, but don't peek until you struggle with it for a while.
 
